@@ -1,8 +1,8 @@
 <a href="https://wheelspin.io"><img src="https://raw.githubusercontent.com/wheelspinio/wheelspin-io-contracts/master/logo_512.png" height="70"></a>
 
-# wheelspin-io-contracts
+# iguess-contracts
 
-[Wheelspin](https://wheelspin.io) is a luck game, similar to wheel of fortune, built in solidity and deployed in Ethereum [Mainnet](https://blockscout.com/eth/mainnet/).
+Formerly, [Wheelspin](https://wheelspin.io) is a luck game, similar to wheel of fortune, built in solidity and deployed in Ethereum [Mainnet](https://blockscout.com/eth/mainnet/).
 
 ## Contract Addresses
 
