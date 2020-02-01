@@ -1,10 +1,12 @@
-<a href="https://wheelspin.io"><img src="https://raw.githubusercontent.com/wheelspinio/wheelspin-io-contracts/master/logo_512.png" height="70"></a>
+<a href="https://iguess.zeemz.xyz"><img src="https://raw.githubusercontent.com/pushingbhutons/iguess-contracts/master/logo_512.png" height="70"></a>
 
 # iguess-contracts
 
-Formerly, [Wheelspin](https://wheelspin.io) is a luck game, similar to wheel of fortune, built in solidity and deployed in Ethereum [Mainnet](https://blockscout.com/eth/mainnet/).
+iGuess, is a number guessing game where the user bets that the wheel will land on a number between 1 and their guess (a number between 6 and 96). The game is currently set for Ethereum play, ZMZB and ZMZLR coming soon.  
 
-## Contract Addresses
+Formerly, [Wheelspin](https://wheelspin.io) is a luck game, similar to Wheel of Fortune, built in Solidity and deployed in Ethereum [Mainnet](https://blockscout.com/eth/mainnet/).
+
+## Wheelspin Contract Addresses
 
 - [mainnet](https://etherscan.io/address/0xf17b52226d78070696ff2dddcb08bb65986054e1): 0xf17b52226d78070696ff2dddcb08bb65986054e1
 
@@ -26,7 +28,7 @@ You will need a web browser and an Ethereum wallet browser extension such as [Me
 
 ## Limits
 
-[From the code](https://github.com/wheelspinio/wheelspin-io-contracts/blob/master/Gamble.sol#L12):
+[From the code](https://github.com/pushingbhutons/iguess-contracts/blob/master/Gamble.sol#L12):
 
 ```
     uint public constant MIN_DEPOSIT = 0.1 ether;
