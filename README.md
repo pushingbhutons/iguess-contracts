@@ -4,7 +4,7 @@
 
 iGuess, is a number guessing game where the user bets that the wheel will land on a number between 1 and their guess (a number between 6 and 96). The game is currently set for Ethereum play, ZMZB and ZMZLR coming soon.  
 
-Formerly, [Wheelspin](https://wheelspin.io) is a luck game, similar to Wheel of Fortune, built in Solidity and deployed in Ethereum [Mainnet](https://blockscout.com/eth/mainnet/).
+Forked from [Wheelspin](https://wheelspin.io),a luck game similar to Wheel of Fortune, built in Solidity, and deployed in Ethereum [Mainnet](https://blockscout.com/eth/mainnet/).
 
 ## Wheelspin Contract Addresses
 
